@@ -1,0 +1,16 @@
+# Virtual Environment
+discvenv
+
+#Environment variables
+.env
+
+#Jupyter Notebooks
+*.ipynb
+
+# Others
+*.txt
+*.png
+*.jpg
+*.ico
+__pycache__
+
